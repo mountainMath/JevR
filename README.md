@@ -18,7 +18,7 @@ Set your API key in the `TYPESAFE_API_KEY` environment variable, for example in
 `~/.Renviron`:
 
 ```
-TYPESAFE_API_KEY=ts_...
+TYPESAFE_API_KEY='apikey_...'
 ```
 
 ## Usage
