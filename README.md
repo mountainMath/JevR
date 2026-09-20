@@ -91,7 +91,7 @@ backoff. Set `TYPESAFE_BASE_URL` to point at a different endpoint.
 
 ## Writing good questions
 
-The [TypeSafe docs](https://docs.typesafe.ai/llms.txt) cover this in depth. In
+The [TypeSafe docs](https://docs.typesafe.ai/) cover this in depth. In
 short: ask one narrow judgment per question, describe what yes and no mean for
 nouls, give choice questions a no-match option, and make each score level a
 concrete situation that stands on its own. Probabilities are calibrated
